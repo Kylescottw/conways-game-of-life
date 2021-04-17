@@ -25,3 +25,5 @@ cd www
 npm install
 npm run start
 ```
+
+https://user-images.githubusercontent.com/14112830/115125311-7efde500-9f84-11eb-87ef-fb84d594b1b5.mov
